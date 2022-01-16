@@ -12,10 +12,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "link": {
-      "type": "uid",
-      "required": false
-    },
     "fullName": {
       "type": "string",
       "required": true
@@ -29,6 +25,9 @@
     },
     "message": {
       "type": "text"
+    },
+    "link": {
+      "type": "string"
     }
   }
 }
