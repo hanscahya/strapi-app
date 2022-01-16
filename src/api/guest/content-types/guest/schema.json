@@ -12,9 +12,9 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "guestId": {
+    "link": {
       "type": "uid",
-      "required": true
+      "required": false
     },
     "fullName": {
       "type": "string",
